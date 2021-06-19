@@ -1,4 +1,5 @@
 # SelfHostingEngine
+![screenshot of the self-hosting-engine](./screenshot.png)
 
 [selfhostingengine.ipfscrosspoint.net](https://selfhostingengine.ipfscrosspoint.net/)
 
@@ -19,4 +20,3 @@ Run `yarn after:build` to generate metadata of builded file.
 ## Running unit tests
 
 Run `yarn test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
