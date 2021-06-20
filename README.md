@@ -3,6 +3,10 @@
 
 [selfhostingengine.ipfscrosspoint.net](https://selfhostingengine.ipfscrosspoint.net/)
 
+[IPFS gatewey version](https://bafybeic52afvp4ot3vcqnthkatdtyhhgxpzpm62ihxgplcffsqaojclmue.ipfs.dweb.link/)
+
+
+
 This is PoC of Web application which host itself in IPFS network via js-ipfs.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
