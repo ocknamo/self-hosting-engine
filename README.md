@@ -3,7 +3,7 @@
 
 [selfhostingengine.ipfscrosspoint.net](https://selfhostingengine.ipfscrosspoint.net/)
 
-[IPFS gatewey version](https://bafybeic52afvp4ot3vcqnthkatdtyhhgxpzpm62ihxgplcffsqaojclmue.ipfs.dweb.link/)
+[IPFS gatewey version](https://bafybeibp6m64oqt5wcp2xhckvhgrn2dciftnstp6s5tlxeb4ve56yayeie.ipfs.dweb.link/)
 
 
 
