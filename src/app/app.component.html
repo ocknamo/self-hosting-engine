@@ -1,8 +1,11 @@
 <h1>{{ title }}</h1>
 
-<div>ID: {{ id }}</div>
-<div>AgentVersion: {{ agentVersion }}</div>
-<div>My CID: {{ cid?.toString() || '...' }}</div>
+<h4>Node info</h4>
+<div class="item">ID: {{ id }}</div>
+<div class="item">AgentVersion: {{ agentVersion }}</div>
+<h4>Application info</h4>
+<div class="item"><a href="https://github.com/ocknamo/self-hosting-engine">github</a></div>
+<div class="item">My CID: {{ cid?.toString() || '...' }}</div>
 
 <ng-container *ngIf="0<links.length; else loading">
   <h3>This Web Site is Hosting by Myself Now!</h3>
